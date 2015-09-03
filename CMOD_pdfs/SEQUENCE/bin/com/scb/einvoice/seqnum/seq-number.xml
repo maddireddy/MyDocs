@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<e-invoice xmlns="http://www.standardchartered.com/seq-number"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.standardchartered.com/seq-number seq-number.xsd ">
+	<country country-code="SG">
+		<current-seq-number>1</current-seq-number>
+	</country>
+	<country country-code="IN">
+		<current-seq-number>1</current-seq-number>
+	</country>
+</e-invoice>
